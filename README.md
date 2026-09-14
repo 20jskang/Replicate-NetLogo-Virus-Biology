@@ -2,9 +2,9 @@
 
 **Authors:** Luka Apps, Ka Chun Lee, Will Kang
 
-Grade:
-    - Code: 6/6
-    - Report: 12.5/19
+Grade
+- Code: 6/6
+- Report: 12.5/19
 
 ## Requirements
 
